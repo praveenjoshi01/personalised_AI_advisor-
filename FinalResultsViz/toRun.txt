@@ -1,4 +1,4 @@
-anaconda prompt  -> cd C:\Users\praveen ji\Desktop\Viz\stocksight-0.1-b.5
+anaconda prompt  -> cd <location>\Viz\stocksight-0.1-b.5
 python sentiment.py -k MSFT --debug
 python sentiment.py -n MSFT --followlinks --debug
 python stockprice.py -s MSFT --debug

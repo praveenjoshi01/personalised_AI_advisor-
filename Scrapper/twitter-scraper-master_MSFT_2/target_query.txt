@@ -1,0 +1,1 @@
+python main.py --searchquery MSFT --since 2012-01-01 --until 2016-03-30 --op test.csv --log test.log
