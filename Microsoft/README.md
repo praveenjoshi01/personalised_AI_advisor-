@@ -1,4 +1,4 @@
-# Twitter Scraper
+# Microsoft Hybrid- architecture for stock price prediction
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Updates](https://pyup.io/repos/github/source-nerd/twitter-scraper/shield.svg)](https://pyup.io/repos/github/source-nerd/twitter-scraper/)
 
